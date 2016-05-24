@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS X
 .DS_Store
 
@@ -54,3 +55,7 @@ tramp
 .cask/
 
 
+=======
+_site/
+.sass-cache/
+>>>>>>> 1ee525de2d75eb47945760306329f3ff35b6a7ce
