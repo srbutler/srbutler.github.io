@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OS X
 .DS_Store
 
@@ -12,8 +11,8 @@ Gemfile.lock
 
 # others
 *.swp
-### https://raw.github.com/github/gitignore/1d4117fefd8d58e88cdfd92ad6187e7c57ddae3e/Jekyll.gitignore
 
+### https://raw.github.com/github/gitignore/1d4117fefd8d58e88cdfd92ad6187e7c57ddae3e/Jekyll.gitignore
 _site/
 .sass-cache/
 .jekyll-metadata
@@ -53,9 +52,3 @@ tramp
 
 # cask packages
 .cask/
-
-
-=======
-_site/
-.sass-cache/
->>>>>>> 1ee525de2d75eb47945760306329f3ff35b6a7ce
